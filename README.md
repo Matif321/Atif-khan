@@ -1,29 +1,56 @@
 # Hi, I’m Atif 👋
-I’m a **MERN Stack Backend Developer** focused on **secure, scalable, and professional backend systems**.  
+I’m a **MERN Stack Backend Developer** focused on building **secure, scalable, and maintainable backend systems**.  
 
 ![](https://komarev.com/ghpvc/?username=atifkhan&color=blue)
 ![](https://img.shields.io/github/followers/atifkhan?style=social)
 
 ---
 
-## 🔧 Skills (Backend Focus)
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, MVC Architecture  
-- **Database:** MongoDB, Mongoose, Data Modeling  
-- **Authentication & Security:** JWT, bcrypt, Fingerprint Auth, CORS, API Security Best Practices  
-- **Other Tools:** Git, GitHub, Postman, VS Code, Docker Basics  
+## 💭 About Me
+Backend-focused MERN Stack Developer with strong experience in **API development, authentication systems, and database management**.  
+- 🔭 Currently building **scalable backend systems**  
+- 🌱 Learning **advanced system design and security best practices**  
+- 💡 Interested in **backend architecture, API security, and SaaS products**  
+- 🎯 Focused on **backend performance and maintainable code**  
+- 📫 Reach me on **LinkedIn or portfolio**
 
 ---
 
-## 📂 Key Projects
-- [Online Voting System](https://github.com/atifkhan/your-voting-repo) — Secure voting system with fingerprint authentication and backend APIs using Node.js & MongoDB.  
-- [POS System Backend](https://github.com/atifkhan/your-pos-repo) — Backend for Point-of-Sale system with authentication, API routes, and database operations.  
+## 🧠 Featured Projects
+
+### 🔹 Online Voting System (MERN)
+Secure voting system with **fingerprint authentication**  
+- Node.js & Express backend APIs  
+- MongoDB database with Mongoose  
+- JWT authentication & **role-based access control**  
+- Focus: **Backend security & scalable architecture**  
+
+### 🔹 POS System Backend
+Backend for Point-of-Sale system:  
+- API routes, database operations, authentication  
+- Secure endpoints & **structured MVC architecture**  
+- Focus: **Performance, reliability, maintainable code**  
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Skills & Tools
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats (Auto-Updating)
+![](https://github-readme-stats.vercel.app/api?username=atifkhan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/atifkhan)  
 - [Portfolio](https://atifkhan.github.io/)  
 
----
-
-*"A great backend developer writes code that is readable, secure, and scalable."*  
+*"A great backend developer writes code that is readable, secure, and scalable."*
