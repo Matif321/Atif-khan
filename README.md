@@ -1,57 +1,108 @@
 # Hi, I’m Atif 👋
-I’m a **MERN Stack Backend Developer** focused on building **secure, scalable, and maintainable backend systems**.  
+<h4 align="center">
+Backend-focused MERN Stack Developer with a Master’s degree in Computer Science.  
+Experienced in building secure, production-ready REST APIs and authentication systems with a strong focus on backend architecture and performance.
+</h4>
 
-![](https://komarev.com/ghpvc/?username=atifkhan&color=blue)  
-![](https://img.shields.io/github/followers/atifkhan?style=social)  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wahid3150&label=Profile%20views&color=0e75b6&style=flat" alt="wahid3150" />
+</p>
 
 ---
 
-## 💭 About Me
-Backend-focused MERN Stack Developer with strong experience in **API development, authentication systems, and database management**.  
-- 🔭 Currently building **scalable backend systems**  
-- 🌱 Learning **advanced system design and security best practices**  
-- 💡 Interested in **backend architecture, API security, and SaaS products**  
-- 🎯 Focused on **backend performance and maintainable code**  
-- 📫 Reach me on **LinkedIn or Portfolio**
+## 🚀 About Me
+
+- 🔭 Currently working on **scalable backend systems using MERN**
+- 🌱 Learning **AI Automation & workflow orchestration (n8n, integrations)**
+- 💡 Interested in **system design, API security, and SaaS products**
+- 🎯 Strong focus on **backend architecture & performance**
+- 📫 Reach me on **LinkedIn or Dev.to**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://dev.to/wahidanon" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/wahidanon" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://fb.com/wahidanon" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/wahidanon" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
 ## 🧠 Featured Projects
 
-### 🔹 Online Voting System (MERN)
-Secure voting system with **fingerprint authentication**  
-- Node.js & Express backend APIs  
-- MongoDB database with Mongoose  
-- JWT authentication & **role-based access control**  
-- Focus: **Backend security & scalable architecture**  
+### 🔹 Secure Authentication System (MERN) — *In Progress*
+**Production-ready authentication & authorization system**
 
-### 🔹 POS System Backend
-Backend for Point-of-Sale system:  
-- API routes, database operations, authentication  
-- Secure endpoints & **structured MVC architecture**  
-- Focus: **Performance, reliability, maintainable code**  
+- Secure user registration & login with **bcrypt**
+- **JWT access & refresh tokens**
+- **Role-based authorization** (Admin / User)
+- **Two-Factor Authentication (2FA / MFA)**
+- IP & email **rate-limiting**
+- **CSRF protection**
+- Input sanitization against **NoSQL Injection**
+- Secure cookies (**httpOnly, secure, sameSite**)
 
----
-
-## 🛠️ Skills & Tools
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)  
+**Tech:** Node.js, Express.js, MongoDB, JWT, React  
+**Focus:** Backend security, auth architecture
 
 ---
 
-## 📊 GitHub Stats (Auto-Updating)
-![](https://github-readme-stats.vercel.app/api?username=atifkhan&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atifkhan&layout=compact&theme=radical)  
+### 🔹 Real-Time Chat Application
+**Scalable messaging system**
+
+- Real-time communication using WebSockets
+- Secure user authentication
+- Optimized message storage
+- Backend-first architecture
+
+**Tech:** Node.js, Socket.io, MongoDB, Express
 
 ---
 
-## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/atifkhan)  
-- [Portfolio](https://atifkhan.github.io/)  
+## 🛠️ Languages & Tools
 
-*"A great backend developer writes code that is readable, secure, and scalable."*
+<p align="left">
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+
+
